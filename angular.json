@@ -136,5 +136,5 @@
       }
     }
   },
-  "defaultProject": "ng5"
+  "defaultProject": "dist/ng5"
 }
